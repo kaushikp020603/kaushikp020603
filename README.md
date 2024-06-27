@@ -1,3 +1,4 @@
+![logo](https://github.com/kaushikp020603/kaushikp020603/blob/main/Bannerr.png)
 <h1 align="center">Hi 👋, I'm Kaushik Prabhu Nerurkar</h1>
 <h3 align="center">A passionate Machine learning Enthusiast from India</h3>
 
