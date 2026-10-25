@@ -1,8 +1,7 @@
-
+![logo](https://github.com/kaushikp020603/kaushikp020603/blob/main/Bannerr.png)
 <h1 align="center">Hi 👋, I'm Kaushik Prabhu Nerurkar</h1>
 <h3 align="center">Machine Learning and Cyber Security | Information Technology Engineer from India</h3>
 
-<img align = "right" alt ="imagee"  width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikp020603&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikp020603" /> </p>
 
 - 🔭 I work on **machine learning, cyber security, cloud and web development**
@@ -10,8 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://kaushikprabhunerurkar.vercel.app/](https://kaushikprabhunerurkar.vercel.app/)
 
 - 📫 How to reach me **kaushik020603@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-ib6Qz3vbCWe5T8Cl1tIdGkvpAv8KHMQ9cVk-cXdVLY/edit?usp=sharing](https://docs.google.com/document/d/1-ib6Qz3vbCWe5T8Cl1tIdGkvpAv8KHMQ9cVk-cXdVLY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
