@@ -1,11 +1,11 @@
 ![logo](https://github.com/kaushikp020603/kaushikp020603/blob/main/Bannerr.png)
 <h1 align="center">Hi 👋, I'm Kaushik Prabhu Nerurkar</h1>
-<h3 align="center">A passionate Machine learning/Cyber Security Enthusiast from India</h3>
+<h3 align="center">Machine Learning and Cyber Security | Information Technology Engineer from India</h3>
 
 <img align = "right" alt ="imagee"  width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushikp020603&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikp020603" /> </p>
 
-- 🌱 I’m currently learning **ML and Cyber Security**
+- 🔭 I work on **machine learning, cyber security, cloud and web development**
 
 - 👨‍💻 All of my projects are available at [https://kaushikprabhunerurkar.vercel.app/](https://kaushikprabhunerurkar.vercel.app/)
 
@@ -13,18 +13,111 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1-ib6Qz3vbCWe5T8Cl1tIdGkvpAv8KHMQ9cVk-cXdVLY/edit?usp=sharing](https://docs.google.com/document/d/1-ib6Qz3vbCWe5T8Cl1tIdGkvpAv8KHMQ9cVk-cXdVLY/edit?usp=sharing)
 
-- ⚡ Fun fact **During my engineering studies, I once pulled an all-nighter to finish a complex coding project, fueled only by endless cups of chai and the occasional samosa from the nearby canteen!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/kaushik-prabhu-nerurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaushik-prabhu-nerurkar" height="30" width="40" /></a>
-<a href="https://instagram.com/@_phoenix._.kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_phoenix._.kaushik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaushik-prabhu-nerurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kaushik-prabhu-nerurkar" height="30" width="40" /></a>
+<a href="https://instagram.com/_phoenix._.kaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_phoenix._.kaushik" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Education
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushikp020603&show_icons=true&locale=en&layout=compact" alt="kaushikp020603" /></p>
+B.E. Information Technology, A. P. Shah Institute of Technology, Thane (University of Mumbai), 2021 to 2025.
+
+## Skills
+
+- **Programming:** Python, HTML, CSS, JavaScript, ReactJS, NodeJS, machine learning libraries
+- **Databases:** MySQL, MongoDB, SQLite
+- **Cloud:** AWS, GCP
+- **Tools:** GitHub, VS Code, Google Colab, Jupyter Lab, Power BI
+
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+</p>
+
+## Projects
+
+**AarogyaMarg** ([repository: SehatSathi](https://github.com/kaushikp020603/SehatSathi))
+A web-based doctor appointment system. It recommends doctors from the symptoms a user enters, and checks doctor availability using facial recognition, to make healthcare easier to access. Built with ReactJS, NodeJS, Flask, KNN, Haar Cascade and Decision Tree.
+
+**E-Commerce Website** ([repository](https://github.com/kaushikp020603/E-Commerce-website))
+An online store built with Laravel (PHP), HTML, CSS, JavaScript and MySQL, with product browsing, a shopping cart, secure checkout and order tracking.
+
+**Electricity Billing System** ([repository](https://github.com/kaushikp020603/Electricity-Billing-System))
+A billing application in Java and SQL for managing billing and customer data.
+
+**E-Diary** ([repository](https://github.com/kaushikp020603/E-Diary))
+A diary application in Python Django and SQLite for creating, editing and organising entries.
+
+## Other public repositories
+
+**Machine learning and data**
+[Credit-Card-Approval-Prediction-Using-ML](https://github.com/kaushikp020603/Credit-Card-Approval-Prediction-Using-ML) ·
+[Salary-prediction-using-machine-learning](https://github.com/kaushikp020603/Salary-prediction-using-machine-learning) ·
+[Hate-Speech-Detection-using-Machine-Learning](https://github.com/kaushikp020603/Hate-Speech-Detection-using-Machine-Learning) ·
+[Whatsapp-Chat-Sentiment-Analysis-Using-ML](https://github.com/kaushikp020603/Whatsapp-Chat-Sentiment-Analysis-Using-ML) ·
+[Disease-Chatbot](https://github.com/kaushikp020603/Disease-Chatbot) ·
+[Healthcare-Chatbot](https://github.com/kaushikp020603/Healthcare-Chatbot) ([live](https://healthcare-chatbot-omega.vercel.app)) ·
+[Web-Scraping-using-Beautiful-Soup](https://github.com/kaushikp020603/Web-Scraping-using-Beautiful-Soup)
+
+**Computer vision**
+[Object-Detection-Using-Tensorflow](https://github.com/kaushikp020603/Object-Detection-Using-Tensorflow) ·
+[Brain-Tumor-Detection-using-YOLOv8](https://github.com/kaushikp020603/Brain-Tumor-Detection-using-YOLOv8) ·
+[Emotion-Detection-Using-YOLOv7](https://github.com/kaushikp020603/Emotion-Detection-Using-YOLOv7) ·
+[Face-Detection-Using-Yolov7](https://github.com/kaushikp020603/Face-Detection-Using-Yolov7) ·
+[Fire-Detection-using-YOLOV9](https://github.com/kaushikp020603/Fire-Detection-using-YOLOV9)
+
+**Security and Python tools**
+[Keylogger-Using-Python-with-GUI](https://github.com/kaushikp020603/Keylogger-Using-Python-with-GUI) ·
+[Image-Steganography-using-Python](https://github.com/kaushikp020603/Image-Steganography-using-Python) ·
+[Jarvis-AI-Assistant-Using-Python](https://github.com/kaushikp020603/Jarvis-AI-Assistant-Using-Python) ·
+[PythonCodingChallenges](https://github.com/kaushikp020603/PythonCodingChallenges) ·
+[Arrakis_Tech_Assesment](https://github.com/kaushikp020603/Arrakis_Tech_Assesment)
+
+**Games**
+[Car-Race-Game-Using-Pygame](https://github.com/kaushikp020603/Car-Race-Game-Using-Pygame) ·
+[Snake-Game-using-Pygame](https://github.com/kaushikp020603/Snake-Game-using-Pygame) ·
+[Sharp-Shooters-Game-using-Pygame](https://github.com/kaushikp020603/Sharp-Shooters-Game-using-Pygame) ·
+[Space-Invaders-Game-using-Python](https://github.com/kaushikp020603/Space-Invaders-Game-using-Python) ·
+[PyGame-Basics-Example](https://github.com/kaushikp020603/PyGame-Basics-Example)
+
+**Websites**
+[Portfolio](https://github.com/kaushikp020603/Portfolio) ·
+[Portfolio2](https://github.com/kaushikp020603/Portfolio2) ·
+[personal](https://github.com/kaushikp020603/personal) ([live](https://personal-lyart-iota.vercel.app)) ·
+[PostOfficiesMap](https://github.com/kaushikp020603/PostOfficiesMap) ([live](https://post-officies.vercel.app)) ·
+[shruti-portfolio](https://github.com/kaushikp020603/shruti-portfolio) ([live](https://shruti-portfolio-gold.vercel.app)) ·
+[demo](https://github.com/kaushikp020603/demo)
+
+## Certifications
+
+- **Cisco:** IT Essentials, Python Essentials, Linux Essentials, Cyber Security Essentials, Networking Essentials, Enterprise Networking Security and Automation, Switching Routing and Wireless Essentials
+- **Red Hat:** RH-124, RH-134
+- **AWS:** Cloud Foundations, Cloud Architecting, ML Foundations
+- **Oracle:** Database Foundation, Java Foundation
+- **Zscaler:** Zero Trust Certified Architect (ZTCA), Zero Trust Security Foundation
+
+## Internships completed
+
+AWS Academy (Data Analytics) · Juniper (Networking) · Zscaler (Zero Trust Cloud Security) · Fortinet (Network Security Associate) · Blue Prism (Intelligent Automation) · Celonis (Business Analyst) · Alteryx (Data Analytics Process Automation) · Mentorness (Machine Learning)
+
+## Leadership and recognition
+
+- **Technical Co-Lead, Cyber Security club:** led technical initiatives, training, workshops and projects.
+- **Smart India Hackathon 2024:** finalist.
+- **IndiaSkills Cybersecurity:** district-level competitor.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikp020603&show_icons=true&locale=en" alt="kaushikp020603" /></p>
 
